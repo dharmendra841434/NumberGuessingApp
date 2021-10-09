@@ -1,8 +1,9 @@
 # NumberGuessingApp
 
 <br><br>
-<img src="app/release/img1.png" width="260" height="550">
-<img src="app/release/img2.png" width="260" height="550">
-
-<img src="app/release/img3.png" width="260" height="550">
+<img src="ScreenShots/s1.png" width="200" height="400">
+<img src="ScreenShots/s2.png" width="200" height="400">
+<img src="ScreenShots/s3.png" width="200" height="400">
+<img src="ScreenShots/s4.png" width="200" height="400">
+<img src="ScreenShots/s5.png" width="200" height="400">
 
